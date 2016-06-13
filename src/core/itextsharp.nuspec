@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>iTextSharp-LGPL-BouncyCastle</id>
+    <version>4.1.6</version>
+	<title>iTextSharp (LGPL / MPL), Bouncy Castle</title>
+    <authors>Bruno Lowagie, Paulo Soares</authors>
+    <owners>Dan Jagnow</owners>
+    <projectUrl>https://github.com/danjagnow/iTextSharp-LGPL-BouncyCastle</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A fork of iTextSharp (LGPL / MPL) 4.1.6 that includes Bouncy Castle as a NuGet package instead of directly including the source code.</description>
+    <releaseNotes>Updated to reference Bouncy Castle as a NuGet package instead of directly including the source code.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>pdf itext itextsharp</tags>
+    <dependencies>
+      <dependency id="BouncyCastle" version="1.7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\itextsharp.dll" target="lib" />
+  </files>
+</package>
