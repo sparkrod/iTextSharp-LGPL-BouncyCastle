@@ -6,6 +6,6 @@ This project is a fork of [iTextSharp (LGPL / MPL) 4.1.6](https://github.com/sch
 NuGet package
 --------------
 
-The [iTextSharp (LGPL / MPL), Bouncy Castle](https://www.nuget.org/packages/iTextSharp-LGPL-BouncyCastle) NuGet package can be installed by run the following command in the Package Manager Console:
+The [iTextSharp (LGPL / MPL), Bouncy Castle](https://www.nuget.org/packages/iTextSharp-LGPL-BouncyCastle) NuGet package can be installed by running the following command in the Package Manager Console:
 
     Install-Package iTextSharp-LGPL-BouncyCastle
