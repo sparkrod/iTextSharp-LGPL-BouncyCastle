@@ -13,7 +13,7 @@
     <copyright>Copyright 2016</copyright>
     <tags>pdf itext itextsharp</tags>
     <dependencies>
-      <dependency id="BouncyCastle" version="1.7.0" />
+      <dependency id="PortableBouncyCastle" version="1.8.1.2" />
     </dependencies>
   </metadata>
   <files>
